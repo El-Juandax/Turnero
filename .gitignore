@@ -1,0 +1,13 @@
+# Ignorar archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar carpetas generadas por herramientas de empaquetado
+dist/
+build/
+
+# Ignorar archivos .spec generados por PyInstaller
+*.spec
+
+# Ignorar archivos de video en la carpeta "videos"
+videos/*
