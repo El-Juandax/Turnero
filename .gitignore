@@ -8,3 +8,4 @@ build/
 
 # Ignorar archivos .spec generados por PyInstaller
 *.spec
+videos/.mp4

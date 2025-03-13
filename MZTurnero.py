@@ -12,3 +12,4 @@ if __name__ == '__main__':
     main()
 
 # pyinstaller --onefile --add-data "src;src" --windowed --icon=src/imagenes/ICONO.ico  MZTurnero.py 
+# python -m pip freeze > requirements.txt
